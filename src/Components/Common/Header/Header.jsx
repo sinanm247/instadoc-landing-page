@@ -39,13 +39,17 @@ export default function Header(){
                 </div>
 
                 <div className="call-div-right">
-                    <div className="service-button">
-                        <img src={service247Icon} alt="24/7 Services" className="service-icon" />
-                    </div>
-                    <div className="whatsapp-button">
-                        <FaWhatsapp className="whatsapp-icon-btn" />
-                        <span className="whatsapp-number">055 154 8684</span>
-                    </div>
+                    <a href="tel:+971551548684" className="service-button-link" target="_blank" rel="noopener noreferrer"> 
+                        <div className="service-button">
+                            <img src={service247Icon} alt="24/7 Services" className="service-icon" />
+                        </div>
+                    </a>
+                    <a href="https://wa.me/971987654321" target="_blank" rel="noopener noreferrer"> 
+                        <div className="whatsapp-button">
+                            <FaWhatsapp className="whatsapp-icon-btn" />
+                            <span className="whatsapp-number">+971 55 154 8684</span>
+                        </div>
+                    </a>
                 </div>
 
             </div>

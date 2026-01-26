@@ -17,13 +17,16 @@ export default function MobileFixedButtons() {
         <FaWhatsapp className="btn-icon" />
         <span className="btn-text">WhatsApp</span>
       </a>
-      <button 
-        onClick={openModal}
+      <a 
+        // onClick={openModal}
+        href="tel:+971551548684"
+        target="_blank"
+        rel="noopener noreferrer"
         className="fixed-btn book-online-btn"
       >
         <IoMdCall className="btn-icon" />
         <span className="btn-text">Call Now</span>
-      </button>
+      </a>
     </div>
   );
 }

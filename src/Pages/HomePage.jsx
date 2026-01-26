@@ -11,7 +11,7 @@ import ContactForm from "../Components/HomePage/ContactForm/ContactForm";
 export default function HomePage() {
   return (
     <Fragment>
-        <Helmet title="City Doctor | Home" />
+        <Helmet title="InstaDoc | Home" />
         <HomeHero />
         <div className="content-wrapper">
           <ServicesSection />

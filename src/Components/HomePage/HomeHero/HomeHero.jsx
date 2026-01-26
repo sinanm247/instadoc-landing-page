@@ -49,7 +49,7 @@ export default function HomeHero() {
               <FaWhatsapp className="btn-icon" />
               WhatsApp
             </a>
-            <a href="tel:8005060" className="btn black-btn">
+            <a href="tel:+971551548684" target="_blank" rel="noopener noreferrer" className="btn black-btn">
               <IoMdCall className="btn-icon" />
               Call Now
             </a>
