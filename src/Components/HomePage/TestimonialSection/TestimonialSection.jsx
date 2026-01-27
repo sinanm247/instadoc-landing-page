@@ -9,38 +9,38 @@ import icon10 from "../../../assets/Icons/icon-10.png";
 const testimonials = [
   {
     id: 1,
-    name: "Elzbieta Cylwik",
+    name: "Adnan Latheef",
     avatar: "https://i.pravatar.cc/150?img=47",
     rating: 5,
-    review: "My husband was very polly with nearly 40 degres of fever. Dr Shoyab and nurse Rabab provided exceptional care during his visit. He was attentive, thorough, and made sure we understood his treatment options. The results and invoice paper were ready in 24h. Highly"
+    review: "Booking a doctor at home was simple and the response was quick. The doctor was skilled, polite, and attentive. It saved me time and effort, and the treatment was as good as a hospital consultation."
   },
   {
     id: 2,
-    name: "Elzbieta Cylwik",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "Dr. Anjhula Mya Singh Bais",
+    avatar: "https://i.pravatar.cc/150?img=12",
     rating: 5,
-    review: "My husband was very polly with nearly 40 degres of fever. Dr Shoyab and nurse Rabab provided exceptional care during his visit. He was attentive, thorough, and made sure we understood his treatment options. The results and invoice paper were ready in 24h. Highly"
+    review: "Great patient service. On time, knowledgeable, efficient and flexible."
   },
   {
     id: 3,
-    name: "Elzbieta Cylwik",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "May Al-Dabbagh",
+    avatar: "https://i.pravatar.cc/150?img=33",
     rating: 5,
-    review: "My husband was very polly with nearly 40 degres of fever. Dr Shoyab and nurse Rabab provided exceptional care during his visit. He was attentive, thorough, and made sure we understood his treatment options. The results and invoice paper were ready in 24h. Highly"
+    review: "Excellent service! Very grateful for the professionalism and thoroughness of nurse Mahira. The IV treatment was punctual and high quality. The team and service deserves five stars!"
   },
   {
     id: 4,
-    name: "Elzbieta Cylwik",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "Emma Robbins",
+    avatar: "https://i.pravatar.cc/150?img=5",
     rating: 5,
-    review: "My husband was very polly with nearly 40 degres of fever. Dr Shoyab and nurse Rabab provided exceptional care during his visit. He was attentive, thorough, and made sure we understood his treatment options. The results and invoice paper were ready in 24h. Highly"
+    review: "Doctor & Nurse arrived after 40 mins of booking. Amazing service. Had flu IV treatment and feeling much better. Would highly recommend."
   },
   {
     id: 5,
-    name: "Elzbieta Cylwik",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "DharNa Ashar",
+    avatar: "https://i.pravatar.cc/150?img=68",
     rating: 5,
-    review: "My husband was very polly with nearly 40 degres of fever. Dr Shoyab and nurse Rabab provided exceptional care during his visit. He was attentive, thorough, and made sure we understood his treatment options. The results and invoice paper were ready in 24h. Highly"
+    review: "Extremely professional and courteous. Fantastic service, on time. Didn't feel the needle at all. Very happy and will definitely rebook them."
   }
 ];
 
@@ -178,7 +178,7 @@ const TestimonialSection = () => {
   };
 
   return (
-    <section id="testimonials" className="testimonial-section section-container">
+    <section id="testimonials" className="testimonial-section">
       <div className="testimonial-wrapper">
         <h1 className="section-title">Served 50,000+ Across Uae's Top Hotels & Communities</h1>
 

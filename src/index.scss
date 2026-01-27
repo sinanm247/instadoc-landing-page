@@ -150,10 +150,10 @@ $bg-dark: #036DAB;
   color: white;
   border: none;
 
-  &:hover {
-    background: #25D366;
-    box-shadow: 0 4px 12px rgba(46, 208, 101, 0.3);
-  }
+  // &:hover {
+  //   background: #25D366;
+  //   box-shadow: 0 4px 12px rgba(46, 208, 101, 0.3);
+  // }
 }
 
 // Tertiary button - dark blue background
@@ -162,10 +162,10 @@ $bg-dark: #036DAB;
   color: white;
   border: none;
 
-  &:hover {
-    background: #005a8f;
-    box-shadow: 0 4px 12px rgba(0, 111, 172, 0.3);
-  }
+  // &:hover {
+  //   background: #005a8f;
+  //   box-shadow: 0 4px 12px rgba(0, 111, 172, 0.3);
+  // }
 }
 
 // Primary button - light green background
@@ -174,10 +174,10 @@ $bg-dark: #036DAB;
   color: white;
   border: none;
   
-  &:hover {
-    background: #3dd19a;
-    box-shadow: 0 4px 12px rgba(80, 230, 175, 0.3);
-  }
+  // &:hover {
+  //   background: #3dd19a;
+  //   box-shadow: 0 4px 12px rgba(80, 230, 175, 0.3);
+  // }
 }
 
 // Secondary button - blue background
@@ -186,14 +186,14 @@ $bg-dark: #036DAB;
   color: white;
   box-shadow: 0 8px 32px rgba(3, 109, 171, 0.3);
   
-  &:hover {
-    background: #036DAB;
-    box-shadow: 0 8px 32px rgba(3, 109, 171, 0.5);
-  }
+  // &:hover {
+  //   background: #036DAB;
+  //   box-shadow: 0 8px 32px rgba(3, 109, 171, 0.5);
+  // }
   
-  &:active {
-    transform: translateY(0);
-  }
+  // &:active {
+  //   transform: translateY(0);
+  // }
 }
 
 .black-btn {
@@ -202,8 +202,8 @@ $bg-dark: #036DAB;
   border: none;
 
   &:hover {
-    background: #000000;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    // background: #000000;
+    // box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -213,8 +213,8 @@ $bg-dark: #036DAB;
   border: none;
 
   &:hover {
-    background: #000000;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    // background: #000000;
+    // box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   }
 }
 
