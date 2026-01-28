@@ -9,38 +9,38 @@ import icon10 from "../../../assets/Icons/icon-10.png";
 const testimonials = [
   {
     id: 1,
-    name: "Adnan Latheef",
+    name: "Jessica Rodriguez",
     avatar: "https://i.pravatar.cc/150?img=47",
     rating: 5,
-    review: "Booking a doctor at home was simple and the response was quick. The doctor was skilled, polite, and attentive. It saved me time and effort, and the treatment was as good as a hospital consultation."
+    review: "I had an emergency and in less than an hour Dr Sadiya and Majd were at my place. Lovely and caring professionals, would highly recommend."
   },
   {
     id: 2,
-    name: "Dr. Anjhula Mya Singh Bais",
+    name: "Hendrik De Beer",
     avatar: "https://i.pravatar.cc/150?img=12",
     rating: 5,
-    review: "Great patient service. On time, knowledgeable, efficient and flexible."
+    review: "The Home Service is Great! The Nurses are professional and highly skilled. I have a monthly recurring appointment with City Doctor Healthcare to help maintain my health."
   },
   {
     id: 3,
-    name: "May Al-Dabbagh",
+    name: "Fabrizio Speranza",
     avatar: "https://i.pravatar.cc/150?img=33",
     rating: 5,
-    review: "Excellent service! Very grateful for the professionalism and thoroughness of nurse Mahira. The IV treatment was punctual and high quality. The team and service deserves five stars!"
+    review: "Excellent service. Dr Sadie's and Fady were professional and attentive. Thank you."
   },
   {
     id: 4,
-    name: "Emma Robbins",
+    name: "Jennifer Abu Nasr",
     avatar: "https://i.pravatar.cc/150?img=5",
     rating: 5,
-    review: "Doctor & Nurse arrived after 40 mins of booking. Amazing service. Had flu IV treatment and feeling much better. Would highly recommend."
+    review: "Perfect service! Thank you to Dr. Hassan and Dr. Adham for the amazing service! They came to my home just after 30 minutes of making the appointment. Checked me out and provided me with the best care for my symptoms!"
   },
   {
     id: 5,
-    name: "DharNa Ashar",
+    name: "Maha Al Shamsi",
     avatar: "https://i.pravatar.cc/150?img=68",
     rating: 5,
-    review: "Extremely professional and courteous. Fantastic service, on time. Didn't feel the needle at all. Very happy and will definitely rebook them."
+    review: "I recently had the pleasure of using City Doctor here in Abu Dhabi and I cannot express enough how grateful I am for their exceptional care and professionalism. Lavyank is not only highly skilled but also incredibly compassionate."
   }
 ];
 
