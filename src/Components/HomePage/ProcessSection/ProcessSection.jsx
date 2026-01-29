@@ -12,7 +12,7 @@ const steps = [
     id: 2,
     stepNumber: "2",
     title: "Share Your Location",
-    description: "Send your address and preferred time. We confirm instantly."
+    description: "Send your location and the patient’s symptoms."
   },
   {
     id: 3,

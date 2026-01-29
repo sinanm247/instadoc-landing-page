@@ -14,7 +14,7 @@ import service10 from "../../../assets/Services/image-10.png";
 const services = [
   {
     id: 1,
-    image: service3,
+    image: service1,
     title: "Nausea & Vomiting",
     description: "Sudden vomiting with weakness."
   },
@@ -26,7 +26,7 @@ const services = [
   },
   {
     id: 3,
-    image: service1,
+    image: service3,
     title: "Fever & Flu",
     description: "High fever with body aches."
   },
@@ -56,19 +56,19 @@ const services = [
   },
   {
     id: 8,
-    image: service9,
+    image: service8,
     title: "Rash & Allergies",
     description: "Sudden rashes and itching."
   },
   {
     id: 9,
-    image: service10,
+    image: service9,
     title: "Ear Pain & Wax",
     description: "Sharp ear pain or blockage."
   },
   {
     id: 10,
-    image: service8,
+    image: service10,
     title: "Period Pain & PMS",
     description: "Sudden cramps and discomfort."
   }
@@ -80,7 +80,7 @@ const ServicesSection = () => {
       <div className="services-wrapper">
         <h1 className="section-title">Get Treated Without<br/> Leaving Home</h1>
         <p className="section-description">
-          From diagnosis and lab tests to instant medication—our fully equipped mobile team handles everything at your bedside, so you can start recovering immediately.
+          Accurate diagnosis and fast treatment support at your location. We also offer lab tests, blood tests, IV drips, nebulization, and additional care services at home.
         </p>
         
         <div className="services-grid">

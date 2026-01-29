@@ -23,16 +23,16 @@
       font-weight: 700;
       line-height: 1.2;
       color: $black;
-      margin: 0 0 20px 0;
+      margin: 0 0 50px 0;
     }
 
-    .faq-description {
-      font-size: 16px;
-      line-height: 1.8;
-      color: #666;
-      margin: 0 auto 50px auto;
-      max-width: 700px;
-    }
+    // .faq-description {
+    //   font-size: 16px;
+    //   line-height: 1.8;
+    //   color: #666;
+    //   margin: 0 auto 50px auto;
+    //   max-width: 700px;
+    // }
   }
 
   .faq-list {
@@ -299,7 +299,8 @@
 
       .section-title {
         font-size: 32px;
-        margin-bottom: 12px;
+        font-weight: 600;
+        margin-bottom: 30px;
       }
 
       .faq-description {
@@ -316,7 +317,7 @@
       border-radius: 25px;
 
       .faq-question {
-        padding: 14px 16px;
+        padding: 18px 20px;
 
         .question-text {
           font-size: 18px;

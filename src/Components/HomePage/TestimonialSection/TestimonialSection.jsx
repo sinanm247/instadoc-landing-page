@@ -9,17 +9,17 @@ import icon10 from "../../../assets/Icons/icon-10.png";
 const testimonials = [
   {
     id: 1,
-    name: "Jessica Rodriguez",
-    avatar: "https://i.pravatar.cc/150?img=47",
+    name: "Maha Al Shamsi",
+    avatar: "https://i.pravatar.cc/150?img=12",
     rating: 5,
-    review: "I had an emergency and in less than an hour Dr Sadiya and Majd were at my place. Lovely and caring professionals, would highly recommend."
+    review: "Exceptional care and professionalism in Abu Dhabi. Lavyank is highly skilled and incredibly compassionate. Highly recommend City Doctor."
   },
   {
     id: 2,
-    name: "Hendrik De Beer",
-    avatar: "https://i.pravatar.cc/150?img=12",
+    name: "Jennifer Abu Nasr",
+    avatar: "https://i.pravatar.cc/150?img=47",
     rating: 5,
-    review: "The Home Service is Great! The Nurses are professional and highly skilled. I have a monthly recurring appointment with City Doctor Healthcare to help maintain my health."
+    review: "Perfect service! Dr. Hassan and Dr. Adham arrived within 30 minutes. Provided excellent care for my symptoms. Thank you!"
   },
   {
     id: 3,
@@ -30,17 +30,17 @@ const testimonials = [
   },
   {
     id: 4,
-    name: "Jennifer Abu Nasr",
-    avatar: "https://i.pravatar.cc/150?img=5",
+    name: "Hendrik De Beer",
+    avatar: "https://i.pravatar.cc/150?img=68",
     rating: 5,
-    review: "Perfect service! Thank you to Dr. Hassan and Dr. Adham for the amazing service! They came to my home just after 30 minutes of making the appointment. Checked me out and provided me with the best care for my symptoms!"
+    review: "Great home service! The nurses are professional and highly skilled. I have monthly recurring appointments to maintain my health."
   },
   {
     id: 5,
-    name: "Maha Al Shamsi",
-    avatar: "https://i.pravatar.cc/150?img=68",
+    name: "Jessica Rodriguez",
+    avatar: "https://i.pravatar.cc/150?img=5",
     rating: 5,
-    review: "I recently had the pleasure of using City Doctor here in Abu Dhabi and I cannot express enough how grateful I am for their exceptional care and professionalism. Lavyank is not only highly skilled but also incredibly compassionate."
+    review: "Had an emergency and Dr Sadiya and Majd arrived in less than an hour. Lovely and caring professionals, highly recommend."
   }
 ];
 
