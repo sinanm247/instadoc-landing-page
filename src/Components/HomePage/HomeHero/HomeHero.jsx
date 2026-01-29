@@ -45,11 +45,11 @@ export default function HomeHero() {
           </div>
 
           <div className="hero-buttons">
-            <a href="https://wa.me/971987654321" className="btn whatsapp-btn" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/971503509100" className="btn whatsapp-btn" target="_blank" rel="noopener noreferrer">
               <FaWhatsapp className="btn-icon" />
               WhatsApp
             </a>
-            <a href="tel:+971551548684" target="_blank" rel="noopener noreferrer" className="btn black-btn">
+            <a href="tel:+971503509100" target="_blank" rel="noopener noreferrer" className="btn black-btn">
               <IoMdCall className="btn-icon" />
               Call Now
             </a>
