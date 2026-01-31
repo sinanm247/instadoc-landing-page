@@ -322,3 +322,65 @@
     }
   }
 }
+
+@media (max-width: 420px) {
+  .process-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    .process-wrapper {
+      .process-title {
+        font-size: 30px;
+        margin-bottom: 10px;
+      }
+
+      .section-description {
+        font-size: 16px;
+        margin-bottom: 40px;
+        font-weight: 500;
+      }
+    }
+
+    .steps-grid {
+      gap: 35px;
+    }
+
+    .step-card {
+      padding: 30px 10px 15px 10px;
+      gap: 5px;
+      border-radius: 25px;
+
+      .step-label {
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+        top: -25px;
+        border: 3px solid $primary;
+      }
+
+      .step-title {
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      .step-description {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.1;
+        max-width: 250px;
+      }
+    }
+
+    .whatsapp-booking-wrapper {
+      margin-top: 40px;
+
+      .btn {
+        font-size: 18px;
+
+        .btn-icon {
+          font-size: 25px;
+        }
+      }
+    }
+  }
+}
