@@ -21,50 +21,50 @@ const services = [
   {
     id: 2,
     image: service2,
-    title: "Food Poisoning & Diarrhea",
-    description: "Acute stomach infection symptoms."
-  },
-  {
-    id: 3,
-    image: service3,
-    title: "Fever & Flu",
-    description: "High fever with body aches."
-  },
-  {
-    id: 4,
-    image: service4,
-    title: "Cough & Congestion",
-    description: "Heavy chest and blocked breathing."
-  },
-  {
-    id: 5,
-    image: service5,
-    title: "Kids Fever, Vomiting & Rashes",
-    description: "Child fever, vomiting or rashes."
-  },
-  {
-    id: 6,
-    image: service6,
     title: "UTI Symptoms",
     description: "Painful urination and discomfort."
   },
   {
-    id: 7,
-    image: service7,
+    id: 3,
+    image: service3,
+    title: "Food Poisoning & Diarrhea",
+    description: "Acute stomach infection symptoms."
+  },
+  {
+    id: 4,
+    image: service4,
     title: "Headache & Migraine",
     description: "Severe headache needing relief."
   },
   {
-    id: 8,
-    image: service8,
+    id: 5,
+    image: service5,
+    title: "Fever & Flu",
+    description: "High fever with body aches."
+  },
+  {
+    id: 6,
+    image: service6,
     title: "Rash & Allergies",
     description: "Sudden rashes and itching."
   },
   {
-    id: 9,
-    image: service9,
+    id: 7,
+    image: service7,
+    title: "Cough & Congestion",
+    description: "Heavy chest and blocked breathing."
+  },
+  {
+    id: 8,
+    image: service8,
     title: "Ear Pain & Wax",
     description: "Sharp ear pain or blockage."
+  },
+  {
+    id: 9,
+    image: service9,
+    title: "Kids Fever, Vomiting & Rashes",
+    description: "Child fever, vomiting or rashes."
   },
   {
     id: 10,

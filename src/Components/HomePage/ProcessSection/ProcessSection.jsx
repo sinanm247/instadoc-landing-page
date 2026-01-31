@@ -6,7 +6,7 @@ const steps = [
     id: 1,
     stepNumber: "1",
     title: "Call or WhatsApp",
-    description: "Call or WhatsApp us at +971 50 350 9100 to request a doctor visit."
+    description: "Call or WhatsApp us at +971503509100 to request a doctor visit."
   },
   {
     id: 2,
